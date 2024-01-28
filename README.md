@@ -1,2 +1,4 @@
 # SAMP-DDOS
-ddos for samp
+pip install requests
+python DDOS-SAMP.py
+
